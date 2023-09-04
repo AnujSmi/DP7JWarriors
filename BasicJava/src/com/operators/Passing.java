@@ -24,7 +24,7 @@ public class Passing {
 		case 2:
 			int passing1=sc.nextInt();
 			if(passing>=70){
-				(System.out.println("70%");
+		
 			}
 		break;
 		}
