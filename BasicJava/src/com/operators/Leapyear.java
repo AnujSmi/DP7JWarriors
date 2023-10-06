@@ -17,4 +17,4 @@ else
 }
 
 }
-}
+}int lastDigit = (int) (square%(Math.pow(10, count)));   
